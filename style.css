@@ -1,0 +1,37 @@
+h2{
+    background-color: #6BA56D;
+    color: #700414;
+}
+
+h3{
+    color: blueviolet;
+    font-size: 36px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.tete{
+    background-color: brown;
+    color: azure;
+}
+
+.copy{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+    font-style: italic;
+    font-size: large;
+}
+
+#cherries{
+    background-color: #d8112f;
+    color:goldenrod;
+}
+
+#grapes{
+    background-color:#1acc20;
+    color: purple;
+
+}
