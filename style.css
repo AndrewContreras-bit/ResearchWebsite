@@ -1,20 +1,46 @@
+header {
+    color: red;
+    height: 40px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+header::after{
+    color: skyblue;
+}
+
+@keyframes RGB{
+    from{
+        color: red;
+    }
+    to{
+        color: skyblue;
+    }
+}
+
 h2{
     background-color: #6BA56D;
-    color: #700414;
 }
 
 h3{
-    color: blueviolet;
+    color: blue;
     font-size: 36px;
 }
 
 img{
     width: 300px;
-    height: 300px;
+    height: 500px;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
 .tete{
-    background-color: brown;
+    background-color: whitesmoke;
     color: azure;
 }
 
